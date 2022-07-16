@@ -1,0 +1,15 @@
+[gd_scene format=2]
+
+[node name="mainmode" type="Node2D"]
+
+[node name="Panel" type="Panel" parent="."]
+margin_left = 586.0
+margin_top = 16.0
+margin_right = 1000.0
+margin_bottom = 581.0
+
+[node name="LineEdit" type="LineEdit" parent="Panel"]
+margin_left = 9.0
+margin_top = 536.0
+margin_right = 405.0
+margin_bottom = 560.0
